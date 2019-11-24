@@ -3,7 +3,8 @@
 
 
 ## Enviroment Requirements
-Node 12.10.0
+- Node 12.10.0
+- Postman
 
 ## Installation
 
@@ -18,6 +19,7 @@ Please following step by step below:
 
 ```bash
 3. $ npm install
+```
 
 To start server API
 ```bash
@@ -28,9 +30,8 @@ To run unit test
 ```bash
 $ npm run test
 ```
-## API Route
 
-We can use Postman app to test api: 
+## API Document
 
 1. Rotate picture
 
