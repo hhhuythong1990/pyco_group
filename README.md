@@ -1,28 +1,33 @@
-# Nodejs Test
+# PYCO Group Test
 
-This is an application use nodejs.
+
 
 ## Enviroment Requirements
-```bash
-$ node --version
-```
-  v12.10.0
+Node 12.10.0
 
 ## Installation
 
 Please following step by step below:
 ```bash
-1. git clone https://github.com/hhhuythong1990/pyco_group_test.git
+1. $ git clone https://github.com/hhhuythong1990/pyco_group_test.git
 ```
-2. cd pyco_group_test
 
-3. 
+```bash
+2. $ cd pyco_group_test
+```
 
-3. From the root of your repository, start the development server with
-   `npm start` or you can use npm script command `npm run start:dev`.
+```bash
+3. $ npm install
 
-4. To run unit test, use npm script command `npm run test`
+To start server API
+```bash
+$ npm run start:dev
+```
 
+To run unit test
+```bash
+$ npm run test
+```
 ## API Route
 
 We can use Postman app to test api: 
