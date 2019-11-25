@@ -45,7 +45,7 @@ with body
 
 ```
 {
-	"grid": [0, 16, 255],[8, 128, 32],[0, 0, 0],
+	"grid": [[0, 16, 255],[8, 128, 32],[0, 0, 0]],
 	"k": 1
 }
 ```
@@ -63,7 +63,7 @@ Api will return array
 You can call this api by use endpoint: 
 
 ```
-[POST] http://localhost:3000/hotel-booking
+[POST] http://localhost:3000/hotels
 ```
 
 with body
